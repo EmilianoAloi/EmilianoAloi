@@ -19,14 +19,12 @@ Soy un desarrollador de software especializado en JavaScript(TypeScript), React 
 
 ## Proyectos destacados
 
-- [Antistampa:](link_al_proyecto_1) e-Commerce desarrollado en React JS, MaterialUI y Firebase para una marca de ropa.
-- [ShowBiz:](link_al_proyecto_2) Plataforma de venta de tickets para recitales.
+- [Antistampa:](https://antistampa.netlify.app/) e-Commerce desarrollado en React JS, MaterialUI y Firebase para una marca de ropa.
+- [ShowBiz:](https://showbiztickets.vercel.app) Plataforma de venta de tickets para recitales.
 Contruido en HTML, CSS y JavaScript Vanilla. 
-- [phoneFix:](link_al_proyecto_3) Desarrollo Web para phoneFix. Local dedicado al servicio técnico y venta de accesorios para iPhone..
+- [phoneFix:](https://phonefix.netlify.app) Desarrollo Web para phoneFix. Local dedicado al servicio técnico y venta de accesorios para iPhone..
 
-## ¡Ponte en contacto!
-
-¡Me encantaría conectarme contigo! Puedes encontrarme en:
+## ¡Hablemos!
 
 - [LinkedIn](https://www.linkedin.com/in/emilianoaloi/)
 - [Gmail](mailto:emilianoaloi.dev@gmail.com)
