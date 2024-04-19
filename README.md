@@ -29,4 +29,4 @@ Contruido en HTML, CSS y JavaScript Vanilla.
 - [LinkedIn](https://www.linkedin.com/in/emilianoaloi/)
 - [Gmail](mailto:emilianoaloi.dev@gmail.com)
 
-<center> ¡Gracias por visitar mi perfil! </center>
+
