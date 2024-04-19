@@ -19,8 +19,6 @@ Soy un desarrollador de software especializado en JavaScript(TypeScript), React 
 
 ## Proyectos destacados
 
-Algunos de los proyectos en los que he estado trabajando:
-
 - [Antistampa:](link_al_proyecto_1) e-Commerce desarrollado en React JS, MaterialUI y Firebase para una marca de ropa.
 - [ShowBiz:](link_al_proyecto_2) Plataforma de venta de tickets para recitales.
 Contruido en HTML, CSS y JavaScript Vanilla. 
