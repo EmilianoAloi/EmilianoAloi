@@ -12,14 +12,15 @@ Soy un desarrollador de software especializado en JavaScript(TypeScript), React 
 
 ## Stack tecnológico que suelo utilizar en mis proyectos
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS.
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS.
 - **Backend:**  Node.js, Express, Python, Django.
 - **Bases de datos:** MongoDB, PostgreSQL, Firebase.
 - **Herramientas:** Git, GitHub, VSCode, Figma, Vercel.
 
 ## Proyectos destacados
 
-- [Antistampa:](https://antistampa.netlify.app/) e-Commerce desarrollado en React JS, MaterialUI y Firebase para una marca de ropa.
+- [LandingPage - Tech:](https://landing-page-ea.vercel.app) Landing Page Tech desarollada con TypeScript, React, Bootstrap y Framer Motion .
+- [Antistampa:](https://antistampa.netlify.app) e-Commerce desarrollado con React JS, MaterialUI, Firebase y Node para una marca de ropa.
 - [ShowBiz:](https://emilianoaloi.github.io/ShowBiz/index.html) Plataforma de venta de tickets para recitales.
 Contruido en HTML, CSS y JavaScript Vanilla. 
 - [phoneFix:](https://phonefix.netlify.app) Desarrollo Web para phoneFix. Local dedicado al servicio técnico y venta de accesorios para iPhone..
