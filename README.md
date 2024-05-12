@@ -19,7 +19,7 @@ Soy un desarrollador de software especializado en JavaScript(TypeScript), React 
 
 ## Proyectos destacados
 
-- [LandingPage - Tech:](https://landing-page-ea.vercel.app) Landing Page Tech desarollada con TypeScript, React, Bootstrap y Framer Motion .
+- [compleete labs:](https://landing-page-ea.vercel.app) Landing Page Tech desarollada con TypeScript, React, Bootstrap y Framer Motion .
 - [Antistampa:](https://antistampa.netlify.app) e-Commerce desarrollado con React JS, MaterialUI, Firebase y Node para una marca de ropa.
 - [ShowBiz:](https://emilianoaloi.github.io/ShowBiz/index.html) Plataforma de venta de tickets para recitales.
 Contruido en HTML, CSS y JavaScript Vanilla. 
