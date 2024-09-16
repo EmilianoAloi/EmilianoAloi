@@ -4,7 +4,7 @@ Soy un desarrollador de software especializado en JavaScript(TypeScript), React 
 
 
 - 🎓 Estoy graduado en la carrera Desarrollador Frontend en Coderhouse.
-- 💻 Actualmente me estoy enfocando en desarrollar la sección de Informes de SmartSell, una aplicación POS (Point Of Sell).
+- 💻 Actualmente me estoy desempeñando en el equipo Frontend de la agencia DOMO desarrolando webs de productos y tratamientos de Aztraseneca.
 - 🌱 Estoy aprendiendo continuamente sobre nuevas tecnologías y mejorando mis habilidades de programación.
 - 🤝 Estoy abierto a colaboraciones y oportunidades interesantes.
 - 📚 Mi libro favorito es "Hábitos Atómicos" de James Clear.
