@@ -1,11 +1,10 @@
 # ¡Hola, soy Emiliano Aloi! 👋
 
-Soy un desarrollador de software especializado en JavaScript(TypeScript), React (Next.js) y Web Performance.
+Soy un desarrollador de software especializado en JavaScript(TypeScript), React (Next.js).
 
 
-- 🎓 Estoy graduado en la carrera Desarrollador Frontend en Coderhouse.
-- 💻 Actualmente me estoy desempeñando en el equipo Frontend de la agencia DOMO desarrolando webs de productos y tratamientos de Aztraseneca.
-- 🌱 Estoy aprendiendo continuamente sobre nuevas tecnologías y mejorando mis habilidades de programación.
+- 🎓 Estoy graduado en la carrera Desarrollador Frontend en Coderhouse. Actualmente cursando la carrera Desarrollador .NET en EducacionIT
+- 💻 Estuve trabajando en el equipo Frontend de la agencia DOMO desarrolando webs de productos y tratamientos de Aztraseneca.
 - 🤝 Estoy abierto a colaboraciones y oportunidades interesantes.
 - 📚 Mi libro favorito es "Hábitos Atómicos" de James Clear.
 - 🎵 Soy un apasionado de la música.
@@ -13,8 +12,8 @@ Soy un desarrollador de software especializado en JavaScript(TypeScript), React 
 ## Stack tecnológico que suelo utilizar en mis proyectos
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS.
-- **Backend:**  Node.js, Express, Python, Django.
-- **Bases de datos:** MongoDB, PostgreSQL, Firebase.
+- **Backend:**  Node.js, Express, .NET, C#.
+- **Bases de datos:** MySQL, Firebase.
 - **Herramientas:** Git, GitHub, VSCode, Figma, Vercel.
 
 ## Proyectos destacados
