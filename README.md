@@ -3,7 +3,7 @@
 Soy un desarrollador de software especializado en JavaScript(TypeScript), React (Next.js).
 
 
-- 🎓 Estoy graduado en la carrera Desarrollador Frontend en Coderhouse. Actualmente cursando la carrera Desarrollador .NET en EducacionIT
+- 🎓 Estoy graduado en la carrera Desarrollador Frontend en Coderhouse. Actualmente cursando la carrera Desarrollador .NET en EducacionIT.
 - 💻 Estuve trabajando en el equipo Frontend de la agencia DOMO desarrolando webs de productos y tratamientos de Aztraseneca.
 - 🤝 Estoy abierto a colaboraciones y oportunidades interesantes.
 - 📚 Mi libro favorito es "Hábitos Atómicos" de James Clear.
